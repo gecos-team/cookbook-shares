@@ -12,6 +12,12 @@ This will work just for GNOME desktops, so OS where you can run GNOME.
 Requirements
 ============
 
+This cookbook depends of the [Cookbook-conf](https://github.com/gecos-team/cookbook-conf) and
+the user and shares must to be passed as attributes.
+
+\#TODO: This will need to install on the node  a small user space daemon
+to mount the shares
+
 Attributes
 ==========
 
